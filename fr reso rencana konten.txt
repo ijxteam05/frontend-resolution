@@ -1,7 +1,8 @@
 Rencana Konten
 1. Mempelajari Kotlin
 2. Mempelajari Dart
-   ^ fluter
+    ^ web
+    ^ fluter
 3. Mempelajari Framework Web Design
     ^ laravel
     ^ code igniter
